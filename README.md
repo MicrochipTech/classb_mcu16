@@ -1,4 +1,4 @@
-### PIC18 Class B Library
+### MCU16 Class B Library
 
 ---
 
